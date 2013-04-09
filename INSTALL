@@ -1,0 +1,4 @@
+﻿INSTALL:
+1.) Copy over and modify xrowgis.ini
+2.) activate extension
+3.) regenerate autoloads (of course)
